@@ -1,0 +1,29 @@
+/* 添加 CSS */
+li{
+    list-style-type: none;
+}
+ul{
+ padding-left: 0px;
+ font-size: 3px;
+}
+.lowerbox{
+    border:1px solid #cccccc; 
+
+    width: 266px;
+    padding: 5px 16px;
+}
+img{
+    width: 300px;
+    margin-bottom: 15px;
+}
+.overall{
+    width: 300px;
+    border:1px solid #cccccc; 
+    padding: 10px;
+    box-shadow: 5px 5px 5px #888888;
+    
+}
+p{
+    font-size: 3px;
+    
+}
